@@ -12,8 +12,6 @@ When I'm not writing code, I'm likely reading, gaming, or successfully wasting a
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-You can check out my work in my repositories here on GitHub.
-
 If you find my tools useful or want to support my "YouTube research" and coffee intake, you can buy me a coffee here:
 
 <a href='https://ko-fi.com/J3J11RQE5L' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
