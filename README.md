@@ -1,12 +1,16 @@
 <img src="welcome_gif.webp" width="100" />
 
-👋 **Hi there, welcome to my profile**
+✨ Hi there, welcome to my profile
 
-My name is Denis, and I enjoy developing apps and finding ways to simplify daily tasks through code. I'm usually working on something new, mostly for the fun of it or simply to see if I can make a process more efficient.
+**My name is Denis**, and I enjoy **developing apps** and finding ways to simplify daily tasks through code. I'm usually working on something new, **mostly for the fun** of it or simply to see if I can make a process more efficient.
 
-If you are here for the first time, feel free to check out my work in my [repositories](https://github.com/dkajan19?tab=repositories) here on GitHub.
+When I'm not writing code, I'm likely reading, gaming, or successfully wasting an impressive amount of time on YouTube.
 
-When I'm not writing code, I'm likely reading, gaming, or successfully wasting an impressive amount of time on YouTube. Most of my projects are built using:
+<img src="bongocat_coding.gif" width="100" align="right" />
+
+If you are here for the first time, feel free to **check out my work in my [repositories](https://github.com/dkajan19?tab=repositories)** here on GitHub. 
+
+Most of **my projects are built using**:
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
