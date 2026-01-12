@@ -1,6 +1,6 @@
 <img src="welcome_gif.webp" width="100" />
 
-✨ Hi there, welcome to my profile
+<img src="shiny.png" width="18" style="vertical-align:middle" /> Hi there, welcome to my profile
 
 **My name is Denis**, and I enjoy **developing apps** and finding ways to simplify daily tasks through code. I'm usually working on something new, **mostly for the fun** of it or simply to see if I can make a process more efficient.
 
